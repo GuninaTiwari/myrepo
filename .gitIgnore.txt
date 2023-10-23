@@ -1,4 +1,4 @@
 *.txt
 document.txt
-
-to be edited 
+new change added.
+to be edited
